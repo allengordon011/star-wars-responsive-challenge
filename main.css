@@ -1,0 +1,17 @@
+header {
+	background-color: #E6B85A;
+	position: fixed;
+	top: 0;	
+	left: 0;
+	right: 0;
+	padding: 20px;
+}
+h1 {
+	font-size: 24px;
+	font-style: bold;
+	margin: 0 auto;
+}
+h2 {
+	font-size: 16px;
+	margin: 0 auto;
+}
