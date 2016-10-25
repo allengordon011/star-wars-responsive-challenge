@@ -1,17 +1,41 @@
+
 header {
 	background-color: #E6B85A;
-	position: fixed;
-	top: 0;	
-	left: 0;
-	right: 0;
-	padding: 20px;
+	width: 100%;
+	top: 0;	 
+	margin-bottom: 30px;
 }
 h1 {
 	font-size: 24px;
-	font-style: bold;
+	font-weight: bold;
+	text-align: left;
+	padding-top: 20px;
 	margin: 0 auto;
 }
 h2 {
-	font-size: 16px;
+	font-size: 14px;
+	font-weight: normal;
+	padding-top: 2px;
+	padding-bottom: 15px;
 	margin: 0 auto;
+}
+.frame {
+	display: inline-block;
+	height: auto;
+	border: 1px solid lightgrey;
+	margin-bottom: 20px;
+}
+img {
+	width: 100%;
+}
+.name {
+	font-size: 14px;
+	font-weight: bold;
+	padding: 20px;
+	padding-bottom: 10px;
+}
+.description {
+	font-size: 11px;
+	padding: 20px;
+	padding-top: 0px;
 }
